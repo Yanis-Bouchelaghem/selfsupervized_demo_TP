@@ -9,3 +9,11 @@ __pycache__/
 
 # virtual env
 venv/
+
+# Data
+data/
+results/
+
+# Clone repos
+cs294-158-ssl/
+palette.pkl
